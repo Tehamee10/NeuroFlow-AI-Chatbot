@@ -23,7 +23,6 @@ An AI-powered chatbot built with **Next.js**, **FastAPI**, **Pinecone**, **FastE
 ### Frontend
 
 * Next.js
-* React
 * Axios
 * CSS
 
@@ -162,28 +161,5 @@ Example Questions:
 
 ---
 
-## 🔮 Future Improvements
 
-* User authentication
-* Chat history
-* File upload from frontend
-* Multiple document support
-* Streaming AI responses
-* Docker deployment
-* Cloud deployment (Render/Vercel)
 
----
-
-## 👨‍💻 Author
-
-**Tehamee Raheel**
-
-* Artificial Intelligence Undergraduate
-* Dawood University of Engineering & Technology
-* Passionate about AI, LLMs, NLP, and Generative AI
-
----
-
-## 📄 License
-
-This project is created for educational and internship assessment purposes.
